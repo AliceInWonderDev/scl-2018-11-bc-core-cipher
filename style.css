@@ -1,1 +1,14 @@
-/* Acá va tu código */
+h1{
+    color: lightcoral
+}
+
+#instrucciones{
+    color: aliceblue
+}
+  #total{
+    display:none;
+  }
+.ingresarContenedor{
+        height: 200xp;
+        border: 2px salmon
+}
