@@ -1,39 +1,45 @@
-//Función para mostrar la segunda página 
-/*function next(){
-document.getElementById("root").innerHTML = "Instrucciones:<br>Primero elige el nivel de dificultad y luego escribe -Sin signos de puntuación ni ñ- la dirección de tu pŕoxima fiesta ";
-document.getElementById("total").style.display ="block";
+//declaración de las variables y arreglos vacías
+let message;
+let offset;
+let string = [];
+let code = [];
 
+
+//función que dice al botón codificar qué debe hacer
+function encodeText(){
+//con message vamos a guardar el texto ingresado por el usuario
+message =   
+document.getElementById("textoInicial").value;
+//con offset vamos a guardar el número de dificultad
+offset =
+document.getElementById("key").value;
+//for:recorrerá el mensaje
+  for(i = 0; i<message.length; i++){
+//convertiremos el message en ASCII y se guarda en un arreglo
+string.push((message.charCodeAt(i))-65+offset%26+65);
+//se convierte el ASCII en letras y se guarda
+code.push(String.fromCharCode(string[i]));
+  }
+//el método join permite unir elementos de un array en una cadena y los muestra
+newCode = code.join("");
+//coloca el mensaje encriptado en un recuadro
+document.getElementById("descifrado").innerHTML = (newCode.toUpperCase());  
 }
-//función para ocultar la primera página
 
-function cifer(){
-document.getElementById("total").innerHTML = "hello";
-document.getElementById("root").style.display ="block";
+//Función que decodifica texto
+function uncodeText(){
+//message: guarda el texto ingresado por el usuario
+  message = document.getElementById("textoInicial").value;
+//offset: guardamos el número de dificultad
+offset = document.getElementById("key").value;
+//recorramos el mensaje con el for
+for(i = 0; i< message.length; i++){
+//convertimos el mensaje ASCII y recorré el nivel de dificultad, además se guarda en un arreglo
+string.push((message.charCodeAt(i))+65-offset%26-65);
+//Convierte el ASCII en letras y se guarda
+code.push(String.fromCharCode(string[i]));
 }
-*/
-
-window.onload = () => {
-//obtengo mi div que contendrá mi código js en html
-const ingresarContenedor = document.getElementById("ingresar");
-    document.getElementById("cifrar").addEventListener("click", (evento) => {
-        evento.preventDefault();
-let contenedorUno = document.getElementById("ingresar").value;
-        console.log(contenedorUno);
-let contenedorDos= document.getElementById("resultado").value;
-        console.log(contenedorDos);
-//elemento div que contenga datos ingresados
-const ingresar = document.createElement("div")
-contenedorUno.classList.add("ingresarContenedor");
-ingresarContenedor.appendChild(ingresar)
-
-//para imprimir datos de usuarios
-const contenedorIngresar = document.createElement("p");
-contenedorIngresar.classList.add("texto");
-let valorContenedor = document.createTextNode(ingresar);
-
-//asignamos padre al valor que ingresó el usuario
-
-contenedorIngresar.appendChild(valorContenedor);
-ingresar.appendChild(contenedorIngresar);
-    });
+//coloca el mensaje desencriptado en un recuadro abajo
+newCode = code.join("");
+  document.getElementById("descifrado").innerHTML = (newCode.toUpperCase());
 }

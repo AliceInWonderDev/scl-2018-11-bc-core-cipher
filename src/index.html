@@ -7,39 +7,19 @@
   </head>
   <body>
     
-    <div id="root">
-      <center><h1>El Club</h1></center>
-      <center>
-        <h4>¡¡¡Bienvenida a El Club!!! <br> tu espacio para dar a conocer la ubicación de tu próxima fiesta clandestina</h4>
-      </center>
-    </div>
-    <div>Comencemos a Cifrar y descifrar</div>
-    <div>
-     <input type="text" placeholder="Ingresa tu texto" id="ingresar"></input>
-    </div>
-    <div>
-    <input type="text" placeholder="tu resultado aquí"id="resultado"></input>
-    </div>
+    <center><h1>El Club</h1></center>
+<center><p>Esta es una aplicación web para que des a conocer la dirección de tu próxima <b>fiesta</b></p></center>
+    <p>Ingresa en letras la dirección y diviertete codificando</p>
 
-    <form>
-    <div id="cifrar">
-    <center><button type="submit" class="button">Cifrar</button></center>
-    </div>
-<br>
-    <div id="descifrar">
-    <center> <button type="submit" class= "button">Descifrar</button> </center>   
-    </div>
-    </form>
+    <input type="text" placeholder="Aquí van sólo letras" autocomplete="off" id="textoInicial"><br>
+    <p>Ingresa el nivel de dificultad</p>
+    <input type="text" placeholder="Aquí van sólo números" autocomplete="off" id="key"><br><br>
+  <button type="submit" onclick="encodeText()" id="encode">Codificar</button> 
+  <button type="submit" onclick="uncodeText()" id="uncode">Descodificar</button><br><br>
+  <div id = "descifrado" autocomplete="off">Tu mensaje codificado o decodificado es: </div>
 
-    
-      
-<form>
-  <div>
-    <button type="button" style="submit" id="ingresarBoton" name="boton">Iniciar de nuevo</button>
-  </div>
-</form>
-    <script src="cipher.js"></script>
-    <script src="index.js"></script>
+<script src="cipher.js"></script>
+<script src="index.js"></script>
     
   </body>
 </html>
