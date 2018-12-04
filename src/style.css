@@ -17,10 +17,10 @@ html{
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
-  position: bottom;
   filter: blur(1);
   background-color: rgba(10, 10, 10, 0.575);
   background-blend-mode: soft-light;
+  
 }
 p{
   color: white
