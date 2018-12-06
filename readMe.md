@@ -26,4 +26,12 @@ El proceso de creación de esta aplicación web es sin lugar a dudas uno de los 
 ******explica claramente quiénes son los usuarios y su relación con
   el producto.*****
 Los usuarios de esta apliación son personas mayores de 18 años en pleno ejercicio de sus facultades, quienes serán los que utilicen 
+------------------------------------------------------------------
+'a' que publico va dirigido, porque lo hicieron asi, hablar sobre la interfaz(que hace internamente el codigo-segundo codigo: programar con palabras comunes-)
+poner una imagen de la aplicación
+explicación de que hace la app, como utilizarlo con frases comunes, como se hizo dese el inicio.
+poner un demo (link)
+experiencia de usuario, que lo hace distinta e innovadora
+podria poner lo de las pantallas (no)
+intrucciones para un desarrollado, explicar como se bajará con un fork
 
