@@ -12,14 +12,17 @@ h1 {
 #descifrado {
   color:palevioletred
 }
-html{
+body{
   background-image: url(https://wallpaper-house.com/data/out/10/wallpaper2you_381539.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
+  background-repeat: no-repeat;
   filter: blur(1);
   background-color: rgba(10, 10, 10, 0.575);
   background-blend-mode: soft-light;
+  margin: 0;
+  padding: 0;
   
 }
 p{
