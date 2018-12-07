@@ -1,7 +1,7 @@
 # ¡¡¡Bienvenida a La Fête!!! #
 ¿Estas cansada de planear fiestas sorpresas a tus amigas o amigos y que siempre se enteran de lo que estas haciendo?
 
-  <a href="https://picsart.com/i/sticker-kawaii-pusheen-cat-lila-party-heart-tumblr-244265626003212?hl=es&amp;hl=es" class="pa-embeded-image"><img src="https://cdn160.picsart.com/upscale-244265626003212.png" data-id="244265626003212" data-size="medium" data-head="1" data-foot="1" alt="#kawaii #pusheen #cat #lila #party #heart #tumblr" width="100px" height="100px" ></a> <script  async="async" src="https://picsart.com/embed.js?v1.3.2"></script> ÉSTA ES LA SOLUCIÓN <3
+  <a href="https://picsart.com/i/sticker-kawaii-pusheen-cat-lila-party-heart-tumblr-244265626003212?hl=es&amp;hl=es" class="pa-embeded-image"><img src="https://cdn160.picsart.com/upscale-244265626003212.png" data-id="244265626003212" data-size="medium" data-head="1" data-foot="1" alt="#kawaii #pusheen #cat #lila #party #heart #tumblr" width="100px" height="100px" ></a> ÉSTA ES LA SOLUCIÓN <3
 
 La forma de mandar ubicaciones de fiestas sorpresas está revolucionando es por ello que esta aplicacion web te cambiará la vida y lo mejor de todo es que te divertirás codificando y decodificando a través de muchos niveles de dificultad -que colocarás con números- y así todos tus invitados tendrán que divertirse descifrando la ubicación.
 
