@@ -5,8 +5,6 @@
 
 La forma de mandar ubicaciones de fiestas sorpresas está revolucionando es por ello que esta aplicacion web te cambiará la vida y lo mejor de todo es que te divertirás codificando y decodificando a través de muchos niveles de dificultad -que colocarás con números- y así todos tus invitados tendrán que divertirse descifrando la ubicación.
 
-
-
 Aquí te ayudaré a utilizar esta aplicación web:
 
 1. Ingresa la dirección web 
@@ -45,3 +43,14 @@ Tú amiga, que estás organizando tu fiesta de cumpleaños o tu graduación de c
 # La Planeación #
 
 Hemos visto a lo largo de los años que la seguridad y la tecnología van de la mano en el mundo moderno, y debido a la creciente necesidad de comunicarnos y dar a conocer información a través de páginas y códigos seguros, entendemos y empatizamos con el usuario y con la idea de dar un plus a sus necesidades y crear una apliación web a través de un código césar con el que pueda acceder a mensajes cifrados y descifrar mensajes para poder comunicarse con el mundo exterior por medio de una forma divertida y lo mejor de todo *de una forma segura*.
+
+# Prueba aquí ésta increíble aplicación web: #
+https://aliceinwonderdev.github.io/scl-2018-11-bc-core-cipher/
+
+#### otro recurso utilizado para crear esta aplicación web: ###
+
+* Planificación con Trello: https://trello.com/b/mHXTbqy7/caesar-cipher
+* prototipado inicial, la aplicación web estaba diseñada con cinco pantallas, de las cuales para una mejor navegación del usuario se dejó únicamente una, pero para ejemplo, se coloca lo que en un inicio iba a ser "El Club"
+
+![](proyecto.jpg)
+
