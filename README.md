@@ -10,18 +10,23 @@ La forma de mandar ubicaciones de fiestas sorpresas está revolucionando es por 
 Aquí te ayudaré a utilizar esta aplicación web:
 
 1. Ingresa la dirección web 
+
 <a href="https://ibb.co/hXQbYkZ"><img src="https://i.ibb.co/k3bjmp9/photo1.png" alt="photo1" border="0"></a>
 
 2. Ingresa la dirección que vas a cifrar en la casilla indicada
+
 <a href="https://ibb.co/M96ZMh3"><img src="https://i.ibb.co/52FGB9f/photo2.png" alt="photo2" border="0"></a>
 
 3. Ingresa el número de nivel de dificultad que tendrá tu cifrado en la casilla indicada
+
 <a href="https://ibb.co/wKRq1sq"><img src="https://i.ibb.co/THkG5LG/photo3.png" alt="photo3" border="0"></a>
 
 4. Da clic en el botón "cifrar" y obten tu resultado para compartir con tus amigas y amigos
+
 <a href="https://ibb.co/Vwmx86C"><img src="https://i.ibb.co/tLXz5R2/photo4.png" alt="photo4" border="0"></a>
 
 5. Pon el cifrado en la casilla indicada, junto con el nivel de dificultad con el que fue cifrado y da clic en el botón "descifrar" para descubrir el mensaje
+
 <a href="https://ibb.co/37p1d4F"><img src="https://i.ibb.co/g3Sy9mW/photo5.png" alt="photo5" border="0"></a>
 
 
