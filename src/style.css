@@ -36,3 +36,13 @@ p{
 #uncode{
   color: coral;
 }
+
+#btnBox{
+  display: none;
+}
+
+.btn{
+  text-align : center;
+  font-size: 20px;
+  color: coral
+}
