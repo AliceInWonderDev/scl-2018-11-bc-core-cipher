@@ -46,3 +46,12 @@ p{
   font-size: 20px;
   color: coral
 }
+
+#gif1{
+  border: coral 25pt;
+  visibility: hidden;
+}
+#gif2{
+  border: coral 25pt;
+  visibility: hidden;
+}
